@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Adam Gazdecki @ZeHolyQofPower online at most places.
+- 📁 This is my portfolio for recruitors! I have taken the extra time to document the pinned projects.
+- 📜 I've graduated with my degree in Computer Engineering. It's Comp-Sci with a background in Electrical Engineering.
 - 📫 Email me at adamstuff@outlook.com for any academic or professional contact.
-- 📜 I've recently graduated with my degree in Computer Engineering.
-- 💼 I'm applying to many different kinds of jobs in order to try new things.
-- :penguin: I've daily driven various Linux Distros for four years.
-- :gear: Find me on social media to connect casually and ask what I'm tinkering with.
 
 
 <!---
