@@ -6,7 +6,7 @@ at AdamStuff@outlook.com or through many other places online:
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=LinkedIn)](https://www.linkedin.com/in/gazdecki/)  [![Static Badge](https://img.shields.io/badge/Discord-%235865F2?logo=discord)](@ZeHolyQofPower) [![Static Badge](https://img.shields.io/badge/Email-%230078D4?logo=Microsoft%20Outlook)](adamstuff@outlook.com)
 ## 💼 Skills and Interests
-![Static Badge](https://img.shields.io/badge/linux-%23FCC624?logo=linux&logoColor=black)  ![Static Badge](https://img.shields.io/badge/Bash-%234EAA25?logo=gnubash&logoColor=white)  ![Static Badge](https://img.shields.io/badge/Steam%20Proton-%23000000?logo=steam&logoColor=white)
+![Static Badge](https://img.shields.io/badge/linux-%23FCC624?logo=linux&logoColor=black)  ![Static Badge](https://img.shields.io/badge/Bash-%234EAA25?logo=gnubash&logoColor=white)  [![Static Badge](https://img.shields.io/badge/Steam%20Proton-%23000000?logo=steam&logoColor=white)](https://www.protondb.com/users/1904012549)
 
 ![Static Badge](https://img.shields.io/badge/Unity-%23FFFFFF?logo=unity&logoColor=black)  ![Static Badge](https://img.shields.io/badge/Gimp-%235C5543?logo=gimp)  ![Static Badge](https://img.shields.io/badge/blender-%23265787?logo=blender&logoColor=%23F5792A)
 
