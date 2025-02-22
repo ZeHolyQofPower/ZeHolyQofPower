@@ -28,7 +28,7 @@ at AdelaidesInbox@gmail.com or through many other places online:
 
 ![Static Badge](https://img.shields.io/badge/Unity-%23FFFFFF?logo=unity&logoColor=black)  ![Static Badge](https://img.shields.io/badge/Gimp-%235C5543?logo=gimp)  ![Static Badge](https://img.shields.io/badge/blender-%23265787?logo=blender&logoColor=%23F5792A)
 
-[![Static Badge](https://img.shields.io/badge/Steam%20Proton-%23000000?logo=steam&logoColor=white)](https://www.protondb.com/users/1904012549) ![Static Badge](https://img.shields.io/badge/Factorio-%23e88c2b) ![Static Badge](https://img.shields.io/badge/Paradox_Interactive_Games-%23101010?logo=paradoxinteractive) 
+[![Static Badge](https://img.shields.io/badge/Steam%20Proton-%23000000?logo=steam&logoColor=white)](https://www.protondb.com/users/1904012549) ![Static Badge](https://img.shields.io/badge/Factorio-1000+_hours-%23e88c2b) ![Static Badge](https://img.shields.io/badge/Paradox_Interactive_Games-4500+_hours-%23101010?logo=paradoxinteractive) 
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeHolyQofPower&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html&langs_count=10)
