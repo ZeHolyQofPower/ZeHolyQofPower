@@ -10,7 +10,9 @@ at AdelaidesInbox@gmail.com or through many other places online:
 
 ![Static Badge](https://img.shields.io/badge/Raspberrypi-%23A22846?logo=raspberrypi)  ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?logo=arduino)
 
-![Static Badge](https://img.shields.io/badge/Embedded_Linux-%23FCC624?logo=linux&logoColor=black) ![Static Badge](https://img.shields.io/badge/Vivado-%23d4da56?logo=amd&logoColor=000000) ![Static Badge](https://img.shields.io/badge/Vitis-%23ed1b24?logo=eclipse&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Vi-%23019733?logo=vim&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Gitea-%23609926?logo=gitea&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Octave-%230790C0?logo=octave&logoColor=orange)
+![Static Badge](https://img.shields.io/badge/Embedded_Linux-%23FCC624?logo=linux&logoColor=black) ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?logo=ubuntu&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/WSL2.0-%23A81D33?logo=debian&logoColor=FFFFFF)
+
+![Static Badge](https://img.shields.io/badge/Vivado-%23d4da56?logo=amd&logoColor=000000) ![Static Badge](https://img.shields.io/badge/Vitis-%23ed1b24?logo=eclipse&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/STM32Cube-%2339a9db?logo=stmicroelectronics&logoColor=03234B) ![Static Badge](https://img.shields.io/badge/Vi-%23019733?logo=vim&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Gitea-%23609926?logo=gitea&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Octave-%230790C0?logo=octave&logoColor=orange)
 
 ![Static Badge](https://img.shields.io/badge/Verilog-%23583484) ![Static Badge](https://img.shields.io/badge/VHDL-%2300309e) ![Static Badge](https://img.shields.io/badge/Device_Tree_Syntax-%23a09ccc)
 
@@ -22,7 +24,7 @@ at AdelaidesInbox@gmail.com or through many other places online:
 
 ## 🏠 Interests and Education
 
-![Static Badge](https://img.shields.io/badge/Linux_Mint-%2386BE43?logo=linuxmint&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Pop!__OS-%2348B9C7?logo=popos&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Ubuntu-%23E95420?logo=ubuntu&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Linux_Mint-%2386BE43?logo=linuxmint&logoColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Pop!__OS-%2348B9C7?logo=popos&logoColor=FFFFFF)
 
 ![Static Badge](https://img.shields.io/badge/Spice-%23900028?logo=ltspice) ![Static Badge](https://img.shields.io/badge/ROS-%2322314E?logo=ros) ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?logo=github) ![Static Badge](https://img.shields.io/badge/Quartus-%2373c4ee?logo=intel&logoColor=000000)
 
